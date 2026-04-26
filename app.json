@@ -8,13 +8,8 @@
       "supportsTabletMode": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+      "package": "com.example.calculatorapp"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "plugins": []
   }
 }
